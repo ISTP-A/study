@@ -1,0 +1,29 @@
+{
+    "position": {
+        "label": "포지션",
+        "fields": {
+            "title": {
+                "label": "이름"
+            },
+            "description": {
+                "label": "설명"
+            }
+        }
+    },
+    "process": {
+        "label": "전형",
+        "fields": {
+            "name": {
+                "label": "이름"
+            }
+        }
+    },
+    "user": {
+        "label": "유저",
+        "fields": {
+            "name": {
+                "label": "이름"
+            }
+        }
+    }
+}
